@@ -168,7 +168,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>My Hacker Stories - v1</h1>
+      <h1>🔖 My Hacker Stories</h1>
 
       <SearchForm
         searchTerm={searchTerm}
